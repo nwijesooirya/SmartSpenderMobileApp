@@ -1,4 +1,3 @@
-SmartSpenderMobileApp
 SmartSpenderMobileApp is an Android application designed to help users manage their personal finances efficiently. It allows users to track income and expenses, categorize transactions, and view financial summaries, all within a user-friendly interface.
 
 📱 Features
