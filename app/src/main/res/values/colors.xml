@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base theme colors -->
+    <color name="primary">#F2B32B</color> <!-- dark gray -->
+    <color name="primary_dark">#212121</color> <!-- almost black -->
+    <color name="primary_light">#BDBDBD</color> <!-- light gray -->
+    <color name="accent">#E91E63</color> <!-- soft highlight gray -->
+    <color name="accent_dark">#9E9E9E</color> <!-- muted mid-gray -->
+
+    <!-- Text colors -->
+    <color name="text_primary">#212121</color> <!-- almost black -->
+    <color name="text_secondary">#616161</color> <!-- mid gray -->
+    <color name="text_hint">#9E9E9E</color> <!-- light gray -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundclr">#FAFAFA</color> <!-- near white -->
+    <color name="background">#F5F5F5</color> <!-- soft gray -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color> <!-- green -->
+    <color name="warning">#FFC107</color> <!-- amber -->
+    <color name="error">#F44336</color> <!-- red -->
+    <color name="info">#757575</color> <!-- neutral gray -->
+
+    <!-- Transaction colors -->
+    <color name="income">#2E7D32</color> <!-- dark green -->
+    <color name="expense">#C62828</color> <!-- strong red -->
+
+    <!-- Budget status colors -->
+    <color name="budget_good">#388E3C</color>
+    <color name="budget_warning">#FFA000</color>
+    <color name="budget_exceeded">#D32F2F</color>
+
+    <!-- Chart colors -->
+    <color name="chart_color_1">#9E9E9E</color>
+    <color name="chart_color_2">#BDBDBD</color>
+    <color name="chart_color_3">#E0E0E0</color>
+    <color name="chart_color_4">#F5F5F5</color>
+    <color name="chart_color_5">#424242</color>
+    <color name="chart_color_6">#757575</color>
+    <color name="chart_color_7">#616161</color>
+    <color name="chart_color_8">#212121</color>
+
+    <!-- Category colors -->
+    <color name="category_food">#757575</color>
+    <color name="category_transport">#BDBDBD</color>
+    <color name="category_bills">#9E9E9E</color>
+    <color name="category_entertainment">#616161</color>
+    <color name="category_shopping">#424242</color>
+    <color name="category_health">#4CAF50</color>
+    <color name="category_education">#F44336</color>
+    <color name="category_housing">#212121</color>
+    <color name="category_other">#E0E0E0</color>
+
+    <!-- Night Mode -->
+    <color name="night_primary">#2C2C2C</color>
+    <color name="night_background">#121212</color>
+    <color name="night_surface">#1E1E1E</color>
+    <color name="night_text_primary">#F5F5F5</color>
+    <color name="night_text_secondary">#BDBDBD</color>
+    <color name="night_card_background">#1A1A1A</color>
+    <color name="night_divider">#333333</color>
+    <color name="night_accent">#424242</color>
+
+</resources>
